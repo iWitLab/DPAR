@@ -1,0 +1,115 @@
+#### Ranks thresholds
+Lowest: 23
+Medium: 29
+Highest: 37
+
+base_lowest: 0.25
+base_medium: 0.5
+base_highest: 0.5
+
+prefix_lowest: 0.25
+prefix_medium: 0.5
+prefix_highest: 0.5
+
+suffix_lowest: 0.25
+suffix_medium: 0.5
+suffix_highest: 0.5
+
+l33t_lowest: 0.25
+l33t_medium: 0.5
+l33t_highest: 0.5
+
+caps_lowest: 0.25
+caps_medium: 0.5
+caps_highest: 0.5
+
+
+########### GENERAL FEEDBACK ###########
+Very_weak: " very weak"
+Weak: " weak"
+Fair: " fair"
+Strong: " strong"
+
+
+########### PREFIX ###########
+prefix_message_null1: "Missing prefix"
+prefix_message_low1: "Weak prefix"
+prefix_message_high1: "Strong prefix"
+prefix_message_not_in_dict1: "Unique prefix"
+
+prefix_message_null2: "Creating a prefix with digits or special characters can strengthen the password"
+prefix_message_low2: "We advise adding some more digits or special characters"
+prefix_message_high2: ""
+prefix_message_not_in_dict2: "This sequence doesn't appear in our leaked password databases"
+
+########### BASE WORD ###########
+base_message_null1: "Missing base word"
+base_message_low1: "Very weak base word"
+base_message_medium1: "Weak base word"
+base_message_ok1: "Fair base word"
+base_message_highest1: "Strong base word"
+base_message_not_in_dict1: "Unique base word"
+
+
+base_message_null2: "We strongly advise replacing the base word"
+base_message_low2: "We strongly advise replacing the base word"
+base_message_medium2: "We advise replacing the base word"
+base_message_ok2: ""
+base_message_highest2: ""
+base_message_not_in_dict2: "This sequence doesn't appear in our leaked password databases"
+
+
+########### SUFFIX ###########
+suffix_message_null1: "Missing suffix"
+suffix_message_low1: "Weak suffix"
+suffix_message_high1: "Strong suffix"
+suffix_message_not_in_dict1: "Unique suffix"
+
+suffix_message_null2: "Creating a suffix with digits or special characters can strengthen the password"
+suffix_message_low2: "We advise adding some more digits or special characters"
+suffix_message_high2: ""
+suffix_message_not_in_dict2: "This sequence doesn't appear in our leaked password databases"
+
+
+########### L33T ###########
+l33t_message_null1: "Adding symbols or digits to the base word can strengthen the password"
+l33t_message_low1: "Adding symbols or digits to the base word can strengthen the password"
+l33t_message_high1: ""
+l33t_message_not_in_dict1: "Unique symbols or digits pattern that doesn't appear in our leaked password databases"
+
+
+l33t_message_null2: ""
+l33t_message_low2: ""
+l33t_message_high2: ""
+l33t_message_not_in_dict2: ""
+
+
+########### Capitalization ###########
+capitalization_message_null1: "Adding some capital letters to the base word can strengthen the password"
+capitalization_message_low1: "Adding some capital letters to the base word can strengthen the password"
+capitalization_message_high1: ""
+capitalization_message_not_in_dict1: "Unique capitalization pattern that doesn't appear in our leaked password databases"
+
+
+capitalization_message_null2: ""
+capitalization_message_low2: ""
+capitalization_message_high2: ""
+capitalization_message_not_in_dict2: ""
+
+############## Policy based feedback ##################
+length_8: "Consider a password longer than 8 characters"
+length_9: "Consider a password longer than 9 characters"
+length_10: "Consider a password longer than 10 characters"
+length_11: "Consider a password longer than 11 characters"
+length_12: "Consider a password longer than 12 characters"
+
+no_digits: "Consider using 1 or more digits in your password"
+no_symbols: "Consider using 1 or more symbols in your password"
+no_capital: "Consider using 1 or more capital letters in your password"
+no_letters: "Consider using 1 or more letters in your password"
+
+one_digits: "Consider using 2 or more digits in your password"
+one_symbols: "Consider using 2 or more symbols in your password"
+one_capital: "Consider using 2 or more capital letters in your password"
+one_letters: "Consider using 2 or more letters in your password"
+

@@ -1,0 +1,17 @@
+empty_prefix: 0.9104925769616705
+empty_suffix: 0.4973588376797103
+empty_capital: 0.9233209177673379
+empty_l33t: 0.9013789702333921
+const: 10 ** (-3)
+min_prefix: 1.1048918980506789e-09
+min_base_word: 5.521443080211319e-10
+min_suffix: 1.1048918980506789e-09
+min_l33t: 1.1048986795591223e-09
+min_upper: 1.1048986795591223e-09
+prefix_file_number: 1
+base_word_file_number: 2
+suffix_file_number: 3
+capitalization_file_number: 4
+leet_file_number: 5
+number_of_recommendations_per_dim: 10
+recommendations_to_return_per_dim: 3
