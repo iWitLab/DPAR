@@ -1,0 +1,88 @@
+
+.css-fg4pbf {
+    position: absolute;
+    background: rgb(255, 255, 255);
+    color: rgb(49, 51, 63);
+    inset: 0px;
+    overflow: hidden;
+}
+
+.css-12ttj6m {
+    border: 1px solid #DCDCDC;
+    border-radius: 0.25rem;
+    padding: calc(1em - 1px);
+    box-shadow: 0 6px 6px -5px #acacac;
+}
+
+.createPWHeader {
+    font-weight: bold;
+    padding: 12px 0 10px 15px;
+    border-radius: 8px 8px 0px 0px;
+    -webkit-background-clip: padding-box;
+    -moz-background-clip: padding;
+    background-clip: padding-box;
+}
+
+.css-1cpxqw2 {
+    display: inline-flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    font-weight: 400;
+    padding: 0.25rem 0.75rem;
+    border-radius: 0.25rem;
+    margin: 0px;
+    line-height: 1.6;
+    color: white;
+    width: 100px;
+    user-select: none;
+    background-color: rgb(255, 255, 255);
+    border-radius: 7px;
+    border: 1px #015E92;
+    background-image: linear-gradient(to bottom, #579add, #2773bd);
+}
+
+        .css-fg4pbf {
+            position: absolute;
+            background: rgb(255, 255, 255);
+            color: #660000;
+            inset: 0px;
+            overflow: hidden;
+        }
+        .css-g70r9e {
+            width: 295px;
+            min-height: 93px;
+            background-color: #f1f1f2;
+            border: 2px solid #BBBBBB;
+            display: none;
+            text-align: left;
+            z-index: 50;
+            position: absolute;
+            margin: -25px 0px 0px -11px;
+            box-shadow: 0 6px 6px -5px #acacac;
+            -moz-border-radius: 5px;
+            -webkit-border-radius: 5px;
+            border-radius: 5px;
+            padding: 10px 10px 10px 10px;
+        }
+div[data-modal-container='true'] > div:first-child > div:first-child {
+    width: unset !important;
+    background-color: #ffff;
+    margin: auto;
+    padding: 20px;
+    margin-top: -100px;
+    margin-left: -100px;
+    margin-bottom: -200px;
+    z-index: 1001;
+    border-radius: 5px;
+}
+
+.modal-backdrop {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: #000;
+}
